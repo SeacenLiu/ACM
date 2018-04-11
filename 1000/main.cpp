@@ -21,6 +21,8 @@
     2
 */
 
+// while(~scanf(“%d”,&n)) <=>  while(scanf(“%d”,&n)!=EOF)
+
 #include<stdio.h>
 int main()
 {
