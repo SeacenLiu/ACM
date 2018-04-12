@@ -31,7 +31,7 @@
  6.251
  */
 
-// s(t) = 6t , m(t) = 0.1t , h(t) = 1/120 t
+// s(t) = 6t , m(t) = 0.1t , h(t) = 1/120 t 
 
 #include <iostream>
 using namespace std;
