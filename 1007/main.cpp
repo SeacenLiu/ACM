@@ -23,7 +23,7 @@
  For each test case, print in one line the radius of the ring required by the Cyberground manager, accurate up to 2 decimal places.
  
  Sample Input:
- 2
+ 2 
  0 0
  1 1
  2
