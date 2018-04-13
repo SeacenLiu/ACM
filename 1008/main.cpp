@@ -31,6 +31,9 @@
  41
  */
 
+// Tip:
+// 确定的必须加的先加上
+
 #include <iostream>
 using namespace std;
 int main(int argc, const char * argv[]) {
